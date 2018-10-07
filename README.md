@@ -13,6 +13,8 @@ Les algorithmes étudiés sont les suivants :
   
 Nous avons étudié la convergence de ces algorithmes sur plusieurs jeux de données (données linéaires séparables, données non linéaires séparables, données paraboliques et données réelles).
 
+Dans le répertoire, vous trouverez le code en python et le rapport du projet.
+
 
 
 
